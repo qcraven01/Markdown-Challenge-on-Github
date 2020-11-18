@@ -1,7 +1,7 @@
 # Quotes
 _Links to to other pages_
-* Images.md
-* README.md
+* [Images](Images.md)
+* [README](README.md)
 ## Aristotle Quotes
 1. > "Happiness is the meaning and the purpose of life, the whole aim and end of human existence."
 2. > "It is the mark of an educated mind to be able to entertain a thought without accepting it."
