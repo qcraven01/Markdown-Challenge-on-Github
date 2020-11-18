@@ -1,3 +1,4 @@
 # Markdown-Challenge-on-Github
-## List of links to explore other pages
-[Images](Images.md)
+_Links to to other pages_
+* [Images](Images.md)
+* [Quotes](Quotes.md)
